@@ -1,8 +1,8 @@
-# Matplotlib-Homework
+# Matplotlib-Homework :green_book::bar_chart::chart_with_upwards_trend:
 ## Matplotlib Homework for the Data Analysis Bootcamp: Pandas, Pandas, Pandas!. 
 ## Information: 
 This repository contains the code for the analysis of the CSV files of a screening that looks for potential treatments for squamous cell carcinoma (SCC), using the information of 249 mice.  
-### Pymaceuticals 
+### Pymaceuticals :rat: :rat: :syringe:
 This repository contains the following: 
 - ***main_pymaceuticals.ipynb:*** Notebook document made to analyze the results of the SCC experiment. The first part has an brief analysis of the obtained results and the data presented in this notebook. There are statistical summaries, boxplots, bar and pie charts, scatterplots and correlation and regression analysis throughout the notebook.  At the first part there is a brief analysis of the data presented. 
 - ***Data***
@@ -10,7 +10,7 @@ This repository contains the following:
   - ***Study_results.csv:*** Csv file that contains the information regarding the procedures and results of the clinical trials. It has the information for each mice, the timepoint, tumor volume and metastasic sites. 
    
 ## Main Findings of the Analysis 
-### Pymaceuticals Analysis 
+### Pymaceuticals Analysis :chart_with_downwards_trend:
 - Concerning the sex of the mice, the distribution was almost even, due to the population being composed by 50.74% of male mice and 49.26% of females.
 
 ![image](https://user-images.githubusercontent.com/79372976/122690184-a45dd800-d1ed-11eb-8c63-1be5fdb4f7c7.png)
